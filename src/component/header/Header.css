@@ -1,0 +1,26 @@
+.main{
+    width: 100%;
+}
+.img-size{
+    width: 21%;
+    margin-bottom: 20px;
+}
+.main nav{
+    background-color: black;
+    line-height: 40px;
+    text-align: start;
+    overflow: hidden;
+}
+.main nav a:first-child{
+    margin-left: 30px;
+}
+.main nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    margin-right: 20px;
+    font-size: 18px;
+}
+.main nav a:hover{
+background-color: lightgray;
+}

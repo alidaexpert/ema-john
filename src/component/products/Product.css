@@ -1,0 +1,41 @@
+.product-item{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+}
+.description{
+    display: flex;
+}
+.img-div{
+    margin-right: 20px;
+}
+.name{
+    color:rgb(4, 4, 255);
+    font-weight: 400;
+    font-size: 17px;
+}
+.price{
+    width: 100%;
+}
+.review{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.product-btn{
+    background-color: rgb(233, 191, 75);
+    border: 1px solid gray;
+    padding: 4px 50px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.star{
+    color:rgb(255, 208, 0);
+    font-size: 14px;
+}
+.feature{
+    margin: 0;
+    font-size: 13px;
+    color: gray;
+}
+.feature span{
+    font-weight: 500;
+}

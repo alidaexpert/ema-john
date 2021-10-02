@@ -1,0 +1,10 @@
+.container table tr{
+    text-align: left;
+    font-size: 13px;
+    margin: 0;
+}
+.container table tr:last-child{
+    font-size: 18px;
+    color:rgb(175, 0, 0);
+    font-weight: 600;
+}
